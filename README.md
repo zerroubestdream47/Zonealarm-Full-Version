@@ -235,3 +235,6 @@ This repository serves as the official landing page for ZoneAlarm Pro. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ZoneAlarm Pro today!**
+
+---
+**Last updated:** 2026-09-12 01:00:17 UTC
