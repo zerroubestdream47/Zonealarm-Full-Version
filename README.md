@@ -237,4 +237,4 @@ This repository serves as the official landing page for ZoneAlarm Pro. The softw
 **Get the most recent version of ZoneAlarm Pro today!**
 
 ---
-**Last updated:** 2026-09-12 22:08:45 UTC
+**Last updated:** 2026-09-13 00:47:02 UTC
